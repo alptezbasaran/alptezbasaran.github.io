@@ -110,3 +110,4 @@ The theme contains a minimal test suite, to ensure a site with the theme would b
 # alptezbasaran.github.io
 # alptezbasaran.github.io
 # alptezbasaran.github.io
+# alptezbasaran.github.io
