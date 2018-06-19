@@ -2,4 +2,4 @@
 layout: default
 ---
 
-PhD. student at [NS State Nuclear Engineering](https://www.ne.ncsu.edu/).
+PhD. student at [NC State Nuclear Engineering](https://www.ne.ncsu.edu/).
